@@ -38,7 +38,7 @@ packman -S python
 All the files of the project is combined and all the modules are set to one file, so to run the 
 project you just need to KnapsackProblemWithGA.py.py file
 ```
-python3 KnapsackProblemWithGA.py.py
+python3 KnapsackProblemWithGA.py
 ```
 
 ## Built With
